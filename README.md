@@ -4,6 +4,7 @@ Este projeto apresenta a escrita de cenários de teste utilizando a abordagem BD
 
 O objetivo é demonstrar a elaboração de casos de teste funcionais, considerando diferentes comportamentos esperados do sistema a partir dos requisitos visuais da interface.
 
+
 ## Funcionalidades da Tela
 
 A tela de login é composta pelos seguintes elementos:
@@ -40,6 +41,22 @@ Os cenários contemplam validações como:
 * Gherkin;
 * Git e GitHub;
 * Análise de Requisitos.
+
+
+## Documentação
+
+Os casos de teste foram elaborados utilizando BDD (Behavior-Driven Development) para uma tela de login criada no Figma.
+
+O projeto contempla:
+
+- Elaboração de cenários utilizando Gherkin;
+- Testes funcionais positivos e negativos;
+- Validação de campos obrigatórios;
+- Cenários de acessibilidade, usabilidade e segurança;
+- Documentação de testes manuais.
+
+🔗 [Acessar casos de teste BDD - Tela de Login](./login.feature.md)
+
 
 ## Estrutura do Projeto
 
