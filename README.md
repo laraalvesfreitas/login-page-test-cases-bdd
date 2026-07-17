@@ -55,8 +55,7 @@ O projeto contempla:
 - Cenários de acessibilidade, usabilidade e segurança;
 - Documentação de testes manuais.
 
-🔗 [Acessar casos de teste BDD - Tela de Login](./login.feature.md)
-
+[Acessar casos de teste BDD - Tela de Login](./test-cases/login.feature.md)
 
 ## Estrutura do Projeto
 
